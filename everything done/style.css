@@ -1,0 +1,50 @@
+body{
+    background-color: #4586de;
+    margin: 20px 0;
+    font-family: sans-serif;
+}
+
+.wrapper{
+
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(202, 202, 202);
+    border-radius: 10px;
+}
+
+header{
+    padding: 50px;
+    font-size: 380%;
+    font-style: inherit;
+    font-family: Georgia;
+    font-weight: 540;
+    background-color: rgb(3, 112, 70);
+    font-feature-settings: "jalt";
+    color: azure;
+}
+
+header > #logo{
+    font-size: 2em;
+    font-family: monospace;
+}
+
+main{
+    padding: 50px;
+    overflow: hidden;
+    
+}
+
+section{
+    width: 60%;
+    float: left;
+}
+
+aside{
+    float: right;
+}
+
+footer{
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+}
