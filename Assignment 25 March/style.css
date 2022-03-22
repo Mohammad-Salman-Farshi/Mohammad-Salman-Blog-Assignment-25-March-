@@ -1,0 +1,24 @@
+.wrapper{
+    background-color: #3d8f06;
+    border: 5px solid #850df549;
+}
+
+.main{
+    float: right;
+    background-color: rgb(25, 119, 241);
+    border: 2px solid #4a00ac;
+    width: 65%;
+}
+
+.sidebar{
+    float: left;
+    background-color: #ff73c9;
+    border: 5px solid #3d3838;
+    width: 30%;
+}
+
+.footer{
+    clear: both;
+    background-color: #73ffc5;
+    border: 2px solid #3c013f;
+}
